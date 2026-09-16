@@ -1,4 +1,4 @@
-#Python Assignment 2: Lists, Dictionaries, Sets & Conditional Statements
+# Python Assignment 2: Lists, Dictionaries, Sets & Conditional Statements
 
 #  LISTS 
 
